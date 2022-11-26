@@ -28,8 +28,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/goleak"
 
-	"github.com/m4ksio/wal/fileutil"
-	"github.com/m4ksio/wal/util"
+	"github.com/SaveTheRbtz/wal/fileutil"
+	"github.com/SaveTheRbtz/wal/util"
 )
 
 func TestMain(m *testing.M) {
